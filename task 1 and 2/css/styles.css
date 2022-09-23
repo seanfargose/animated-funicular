@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: cursive;
+}
+
+h1 {
+  width: 10%;
+  margin: 0 auto 0 auto;
+  font-family: cursive;
+  font-weight: bold;
+  text-align: center;
+  color: #40E0D0;
+}
+h2 {
+
+  font-family: fantasy;
+  text-align: center;
+  color: powderedblue;
+}
+h3 {
+
+  font-family: cu;
+  text-align: center;
+}
+
+
+div {
+  background-color: #F0F8FF;
+
+}
+.top-container{
+  background-color: #F0F8FF;
+  position: relative;
+  padding-top: 100px;
+  text-align: center;
+}
+
+.pro{
+  text-decoration: underline;
+  text-align: center;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+  text-align: center;
+}
+.top-cloud{
+  position: absolute;
+  right : 100px;
+  top: 50px;
+  text-align: center;
+
+}
+html{
+  scroll-behavior: smooth;
+  text-align: center;
+}
+
+/* hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width:25%;
+    text-align: center;
+
+  } */
+
+  body{
+      background-color: #F0F8FF;
+
+    }
+
+.contact-me{
+  margin-bottom: 30px;
+  text-align: center;
+}
